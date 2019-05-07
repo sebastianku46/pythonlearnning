@@ -1,8 +1,4 @@
----
-layout: default
----
-# 【Star Rocket】 - 蟒蛇通（Python 開發者專屬學習聚會）
-## P.03 - （主題暫定）
+# P.03 - （主題暫定）
 
 ![](https://i.imgur.com/hbkjtJF.jpg)
 
